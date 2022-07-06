@@ -1,3 +1,2 @@
-# HelperScript
 
-https://heroku.com/deploy?template=https://github.com/NEOIR/ViranA
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NEOIR/ViranA)
