@@ -12,3 +12,6 @@ Use Below Commands in Bot
 ,addrepo https://github.com/UsergeTeam/Userge-Plugins
 
 ,restart -h
+
+# Heroku API Key
+Get a Heroku API key from http://dashboard.heroku.com/account
